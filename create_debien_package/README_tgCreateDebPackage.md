@@ -31,6 +31,6 @@ If you do not get the similar result, do not use this package.
 
 ### Author's Information
 1. Date:2023-Jan-12
-2. Website: tami-green-cv.com
+2. Website: https://tami-green-cv.com
 3. Email:tamigreen2020@gmail.com
 4. Licence: MIT
