@@ -29,8 +29,8 @@ If you do not get the similar result, do not use this package.
 2. tgCreateDebPackage         
 3. It should display "command not found" it means this package is removed.
 
-Author
-Date:2023-Jan-12
-Authors website: tami-green-cv.com
-email:tamigreen2020@gmail.com
-Licence: MIT
+### Author's Information
+1. Date:2023-Jan-12
+2. Website: tami-green-cv.com
+3. Email:tamigreen2020@gmail.com
+4. Licence: MIT
