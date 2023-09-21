@@ -1,13 +1,13 @@
 # Checking the integrity of this package
 ##  Run this blow command in linux system terminal
-md5sum tgCreateDebPackage-1.0.0.deb 
-sha1sum tgCreateDebPackage-1.0.0.deb
-sha256sum tgCreateDebPackage-1.0.0.deb
+1. md5sum tgCreateDebPackage-1.0.0.deb 
+2. sha1sum tgCreateDebPackage-1.0.0.deb
+3. sha256sum tgCreateDebPackage-1.0.0.deb
 
 ## The following result you will get
-3766ec112a64de7e33a81e76975e3a93  tgCreateDebPackage-1.0.0.deb
-c0c84c74a5ce530fe2a13a59a52370da7490b094  tgCreateDebPackage-1.0.0.deb
-59c49e93b522b5d13098d32eebb3274803583569ba4dbf905e60323de6fa83c7  tgCreateDebPackage-1.0.0.deb
+1. 3766ec112a64de7e33a81e76975e3a93  tgCreateDebPackage-1.0.0.deb
+2. c0c84c74a5ce530fe2a13a59a52370da7490b094  tgCreateDebPackage-1.0.0.deb
+3. 59c49e93b522b5d13098d32eebb3274803583569ba4dbf905e60323de6fa83c7 tgCreateDebPackage-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
