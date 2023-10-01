@@ -7,9 +7,9 @@
 3. sha256sum tgCheckFileIntegrity-1.0.0.deb
 
 ## The following result you will get
-0b596c116c6a07f51f88003bf9242fc9  tgCheckFileIntegrity-1.0.0.deb
-7f5901ef2078defd6b8618ec868318c8752c8d8a  tgCheckFileIntegrity-1.0.0.deb
-8c0eb2491ae420942867b16b5be6d89ad97757830a6826fae8a56cbd459bf0ba  tgCheckFileIntegrity-1.0.0.deb
+1. 0b596c116c6a07f51f88003bf9242fc9  tgCheckFileIntegrity-1.0.0.deb
+2. 7f5901ef2078defd6b8618ec868318c8752c8d8a  tgCheckFileIntegrity-1.0.0.deb
+3. 8c0eb2491ae420942867b16b5be6d89ad97757830a6826fae8a56cbd459bf0ba  tgCheckFileIntegrity-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
