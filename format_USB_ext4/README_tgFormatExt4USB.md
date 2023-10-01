@@ -7,9 +7,9 @@
 3. sha256sum tgFormatExt4USB-1.0.0.deb
 
 ## The following result you will get
-adc0c4174752c1324c00d1573994627c  tgFormatExt4USB-1.0.0.deb
-eed6977512916f36220e3108414088e2933d2bd2  tgFormatExt4USB-1.0.0.deb
-0860c0464362891e23896bc4f12872ca18930d77f846c103aa568f5e089bc781  tgFormatExt4USB-1.0.0.deb
+1. adc0c4174752c1324c00d1573994627c  tgFormatExt4USB-1.0.0.deb
+2. eed6977512916f36220e3108414088e2933d2bd2  tgFormatExt4USB-1.0.0.deb
+3. 0860c0464362891e23896bc4f12872ca18930d77f846c103aa568f5e089bc781  tgFormatExt4USB-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
