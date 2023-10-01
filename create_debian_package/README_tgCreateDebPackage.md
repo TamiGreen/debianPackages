@@ -7,9 +7,9 @@
 3. sha256sum "tgCreateDebPackage-1.0.1.deb"
 
 ## The following result you will get
-2ce4dcc83a9987f8c5ce352a5eae59ad  tgCreateDebPackage-1.0.1.deb
-2ad026e32f2506e56f523c1a43350edbe0cc7d3d  tgCreateDebPackage-1.0.1.deb
-23750ff0f8bf46e51a4f8894bcc3dda26a764bb033cc4251667bc02b2a2e1979  tgCreateDebPackage-1.0.1.deb
+1. 2ce4dcc83a9987f8c5ce352a5eae59ad  tgCreateDebPackage-1.0.1.deb
+2. 2ad026e32f2506e56f523c1a43350edbe0cc7d3d  tgCreateDebPackage-1.0.1.deb
+3. 23750ff0f8bf46e51a4f8894bcc3dda26a764bb033cc4251667bc02b2a2e1979  tgCreateDebPackage-1.0.1.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
