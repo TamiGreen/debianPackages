@@ -7,9 +7,9 @@
 3. sha256sum tgCreateBootableUSB-1.0.0.deb
 
 ## The following result you will get
-4d52d31bc22f3e42b800945e640318c8  tgCreateBootableUSB-1.0.0.deb
-7a92fb41847407a0a0dad27d3c72ac73ca1e6ce5  tgCreateBootableUSB-1.0.0.deb
-5bc3d6d0eda4786c04e1d569be628a4bbd65dbefcc73eeb3a7fa224661c69ea5  tgCreateBootableUSB-1.0.0.deb
+1. 4d52d31bc22f3e42b800945e640318c8  tgCreateBootableUSB-1.0.0.deb
+2. 7a92fb41847407a0a0dad27d3c72ac73ca1e6ce5  tgCreateBootableUSB-1.0.0.deb
+3. 5bc3d6d0eda4786c04e1d569be628a4bbd65dbefcc73eeb3a7fa224661c69ea5  tgCreateBootableUSB-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
