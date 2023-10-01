@@ -7,9 +7,9 @@
 3. sha256sum tgExtractISO-1.0.0.deb
 
 ## The following result you will get
-39f79251d0e27eb08ead2b86996a6ecf  tgExtractISO-1.0.0.deb
-06161b002a2b6cdca3c8bd2e1b2c0fd26f437fed  tgExtractISO-1.0.0.deb
-40443ffd705eba5a1891d9278e211ef0c7973aecc1bf9880e5bf76bd597b8f54  tgExtractISO-1.0.0.deb
+1. 39f79251d0e27eb08ead2b86996a6ecf  tgExtractISO-1.0.0.deb
+2. 06161b002a2b6cdca3c8bd2e1b2c0fd26f437fed  tgExtractISO-1.0.0.deb
+3. 40443ffd705eba5a1891d9278e211ef0c7973aecc1bf9880e5bf76bd597b8f54  tgExtractISO-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
