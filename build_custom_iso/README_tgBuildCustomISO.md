@@ -7,9 +7,9 @@
 3. sha256sum tgBuildCustomISO-1.0.0.deb
 
 ## The following result you will get
-7aad648db70b30f69f9510f49e34ee16  tgBuildCustomISO-1.0.0.deb
-d3c265fcd100c7ad58faa0295d2dcd7f08433b8a  tgBuildCustomISO-1.0.0.deb
-e16e46d722ddd003215b705ebe852c56fae9d4ca8a320233b8714b4bf568442e  tgBuildCustomISO-1.0.0.deb
+1. 7aad648db70b30f69f9510f49e34ee16  tgBuildCustomISO-1.0.0.deb
+2. d3c265fcd100c7ad58faa0295d2dcd7f08433b8a  tgBuildCustomISO-1.0.0.deb
+3. e16e46d722ddd003215b705ebe852c56fae9d4ca8a320233b8714b4bf568442e  tgBuildCustomISO-1.0.0.deb
 
 ## Note:
 If you do not get the similar result, do not use this package.
