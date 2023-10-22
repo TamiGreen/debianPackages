@@ -1,1 +1,35 @@
-.DS_Store
+# Ignore operating system files
+.DS_Store             # macOS system files
+Thumbs.db             # Windows Thumbs.db files
+*~                   # Linux temporary files
+
+# Ignore IDE and code editor files
+.vscode/              # Visual Studio Code (VSCode)
+.idea/               # JetBrains PyCharm
+
+# Ignore dependency and package management directories
+node_modules/         # Node.js dependencies
+venv/                # Python virtual environment
+
+# Ignore compiled code and build artifacts
+__pycache__/          # Compiled Python files
+*.class              # Compiled Java classes
+*.o                  # Compiled C/C++ files
+
+# Ignore sensitive data and configuration files
+.env                  # Environment-specific configuration files
+.secrets/             # API keys and secret keys
+
+# Ignore logs and temporary files
+log/*.log             # Log files
+temp/                # Temporary files
+
+# Ignore user-specific files and editor settings
+.user_settings/       # User-specific settings
+.editorconfig        # Editor-specific settings
+
+# Ignore documentation
+doc/                 # Documentation files
+
+# Add custom patterns for files or directories specific to your project
+
